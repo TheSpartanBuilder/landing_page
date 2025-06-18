@@ -1,1 +1,15 @@
 # landing_page
+
+
+# Resource used
+- github.png
+    - This image is downloaded from
+https://img.icons8.com/ios_filled/512/github.png
+
+- linkedin-logo-linkedin-icon-transparent-free-png.webp
+    - This image is downloaded from 
+https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png
+
+- portable-network-graphics-logo-vector-graphics-graphic-design-png-favpng-5wCajMHRHaUEErhMSqC4HZ6MQ.jpg
+    - This image is downloaded from 
+https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png
