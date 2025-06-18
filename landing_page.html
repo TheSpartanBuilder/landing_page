@@ -5,15 +5,49 @@
         <title>Thomas's webpage</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+        <link rel="stylesheet" href="landing_page.css">
     </head>
 
+    <!-- This is really useful to what I am trying to do -->
+    <!--  -->
+
     <body>
-        <div id="name_n_picture">
-            <div id="name" class="text-5xl text-center">
-                Thomas Wong
+        <script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js"></script>
+
+        <script src="landing_page.js"></script>
+        <div class="card name_n_image">
+            <div id="name_n_picture">
+                <div id="name" class="text-5xl text-center pt-25">
+                    Thomas Wong
+                </div>
+                <div id="spacer" class="p-5"></div>
+                <div id="picture">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/No_Image_Available.jpg" alt="Image of Thomas Wong" class="center">
+                </div>
+                <!-- Image -->
+                <!-- https://www.w3schools.com/howto/howto_css_blurred_background.asp -->
             </div>
-            <!-- Image -->
-            <!-- https://www.w3schools.com/howto/howto_css_blurred_background.asp -->
+        </div>
+
+        <!-- Spacer -->
+        <div class="p-60">
+
+        </div>
+
+        <div id="about_me" class="card rounded-lg center2 max-w-xl">
+            <div class="text-4xl font-extrabold text-center pb-20">
+                About me
+            </div>
+
+            <div class="text-center">
+                I am a undergraduate graduated from university of california santa cruz who have enthusiasm in machine learning and operating system.
+                I have 
+                I am currently instrested in an adventure in a company.
+            </div>
+
+            <div>
+
+            </div>
         </div>
     </body>
 </html>
