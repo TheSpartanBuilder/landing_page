@@ -4,6 +4,6 @@ document.addEventListener('DOMContentLoaded', () => {
         opacity: 1, 
         duration: 2,
         ease: "power3.out",
-        y: -50
+        y: -50,
     });
 });
