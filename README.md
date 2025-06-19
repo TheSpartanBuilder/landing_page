@@ -1,5 +1,8 @@
 # landing_page
 
+# Resource I used to help me make the website
+- Move over
+    - https://gsap.com/community/forums/topic/30291-hover-animation/
 
 # Resource used
 - github.png
