@@ -13,3 +13,6 @@
 
 - servers.jpeg
     - This image is downloaded from https://images.ctfassets.net/wivd9zt8fi3t/6WQs7W7dFZg5c0gvavPzE0/3ed61732162ec4d37d37cb0a9b80f255/servers.jpeg
+
+- transformer-architecture.jpg
+    - This image is downloaded from https://www.mygreatlearning.com/blog/wp-content/uploads/2025/04/transformer-architecture.jpg
